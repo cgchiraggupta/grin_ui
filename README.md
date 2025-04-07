@@ -98,9 +98,6 @@ The project is configured for deployment on Netlify with the following settings:
 - Build command: `next build`
 - Publish directory: `.next`
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🤝 Contributing
 
